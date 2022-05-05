@@ -1,0 +1,67 @@
+h1 {
+    color: grey;
+    font-weight: 100;
+    text-align: center;
+    background-color: rgb(50, 48, 49);
+    font-size: 2cm;
+}
+
+p {
+    color: purple;
+    margin: 50px;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    color: tomato
+}
+
+.frase-tema {
+    color: #03254e;
+    margin: 50px;
+    text-align: center;
+    font-size: 1cm;
+}
+
+.um {
+    color: black;
+}
+
+.two {
+    color: blueviolet;
+}
+
+.tree {
+    color: rgb(174, 32, 18);
+}
+
+h2 {
+    color: orangered;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    font-weight: 800;
+    text-align: center;
+}
+
+style {
+    margin: 50px;
+    text-align: center;
+}
+
+ul {
+    margin: 20px;
+    text-align: center;
+}
+
+.foto {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    width: 80%;
+}
+
+body{
+    background-color: aquamarine;
+}
